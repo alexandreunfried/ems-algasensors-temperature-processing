@@ -1,4 +1,4 @@
-package com.unfried.algasensors.temperature.processing;
+package com.unfried.algasensors.temperature.processing.common;
 
 import com.fasterxml.uuid.Generators;
 import com.fasterxml.uuid.impl.TimeBasedEpochRandomGenerator;
